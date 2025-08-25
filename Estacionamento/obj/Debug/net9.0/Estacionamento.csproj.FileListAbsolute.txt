@@ -1,0 +1,14 @@
+C:\Users\TI\Estacionamento\Estacionamento\bin\Debug\net9.0\Estacionamento.exe
+C:\Users\TI\Estacionamento\Estacionamento\bin\Debug\net9.0\Estacionamento.deps.json
+C:\Users\TI\Estacionamento\Estacionamento\bin\Debug\net9.0\Estacionamento.runtimeconfig.json
+C:\Users\TI\Estacionamento\Estacionamento\bin\Debug\net9.0\Estacionamento.dll
+C:\Users\TI\Estacionamento\Estacionamento\bin\Debug\net9.0\Estacionamento.pdb
+C:\Users\TI\Estacionamento\Estacionamento\obj\Debug\net9.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\Estacionamento\Estacionamento\obj\Debug\net9.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\TI\Estacionamento\Estacionamento\obj\Debug\net9.0\Estacionamento.AssemblyInfo.cs
+C:\Users\TI\Estacionamento\Estacionamento\obj\Debug\net9.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\TI\Estacionamento\Estacionamento\obj\Debug\net9.0\Estacionamento.dll
+C:\Users\TI\Estacionamento\Estacionamento\obj\Debug\net9.0\refint\Estacionamento.dll
+C:\Users\TI\Estacionamento\Estacionamento\obj\Debug\net9.0\Estacionamento.pdb
+C:\Users\TI\Estacionamento\Estacionamento\obj\Debug\net9.0\Estacionamento.genruntimeconfig.cache
+C:\Users\TI\Estacionamento\Estacionamento\obj\Debug\net9.0\ref\Estacionamento.dll
